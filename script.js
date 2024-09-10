@@ -17,6 +17,7 @@ btn.addEventListener("click",function()
     {
         isstatus.innerHTML = "strager"
         isstatus.style.color = "red"
+        btn.innerHTML = "Add Friend"
         state =0
         
     }
